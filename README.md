@@ -46,9 +46,9 @@ If your distribution isn't listed, please check the requirements yourself.
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
 
-    sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
-    rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
-    rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
+    sudo rm -rf /usr/share/themes/{Gotham,Gotham-Darker,Gotham-Dark}
+    rm -rf ~/.local/share/themes/{Gotham,Gotham-Darker,Gotham-Dark}
+    rm -rf ~/.themes/{Gotham,Gotham-Darker,Gotham-Dark}
 
 #### Manual Installation
 
@@ -67,7 +67,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/0xhjohnson/arc-theme-gotham.git --depth 1 && cd arc-theme-gotham
+    git clone https://github.com/Galzzlt/gotham-theme.git --depth 1 && cd gotham-theme
 
 **2. Build and install the theme**
 
@@ -92,7 +92,7 @@ Other options to pass to autogen.sh are
                                Note: Normally the correct version is detected automatically and this
                                option should not be needed.
 
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc`, `Arc-Darker` or `Arc-Dark` as Window/GTK+ theme and `Arc` or `Arc-Dark` as Gnome-Shell and Xfce-Notify theme.
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Gotham`, `Gotham-Darker` or `Gotham-Dark` as Window/GTK+ theme and `Gotham` or `Gotham-Dark` as Gnome-Shell and Xfce-Notify theme.
 
 **Uninstall the theme**
 
@@ -102,7 +102,7 @@ Run
 
 from the same directory as this README resides in, or
 
-    sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
+    sudo rm -rf /usr/share/themes/{Gotham,Gotham-Darker,Gotham-Dark}
 
 ### Extras
 
@@ -110,8 +110,8 @@ from the same directory as this README resides in, or
 To install the Chrome/Chromium theme go to the `extra/Chrome` folder and drag and drop the arc-theme.crx or arc-dark-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source "Chrome/arc-theme" folder.
 
 #### Plank theme (Gotham version in progress)
-To install the Plank theme, copy the `extra/Arc-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
-Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Arc-Plank` as the theme.
+To install the Plank theme, copy the `extra/Gotham-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
+Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Gotham-Plank` as the theme.
 
 ### Troubleshooting
 
@@ -126,7 +126,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ### Bugs
-If you find a bug, please report it at https://github.com/0xhjohnson/arc-theme-gotham/issues
+If you find a bug, please report it at https://github.com/Galzzly/gotham-theme/issues
 
 ### License
 Arc is available under the terms the GPL-3.0. See `COPYING` for details.
