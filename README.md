@@ -1,20 +1,20 @@
-# Arc Theme Gotham
+# Gotham Theme
 
-Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc. This theme is a fork of the original Arc Theme project created by horst3180. Gotham is a very dark theme that is based off the Gotham Vim project by whatyouhide.
+Gotham is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc. This theme is a fork of the original Arc Theme Gotham project created by  0xhjohnson. Gotham is a very dark theme that is based off the Gotham Vim project by whatyouhide.
 
-### Arc is available in three variants
+### Gotham is available in three variants
 
-### Arc
+### Gotham
 
-![A screenshot of the Arc theme](http://i.imgur.com/AqEJ2oV.png)
+![A screenshot of the Gotham theme](http://i.imgur.com/AqEJ2oV.png)
 
-### Arc-Darker
+### Gotham-Darker
 
-![A screenshot of the Arc-Darker theme](http://i.imgur.com/fjRAobi.png)
+![A screenshot of the Gotham-Darker theme](http://i.imgur.com/fjRAobi.png)
 
-### Arc-Dark (Recommended)
+### Gotham-Dark (Recommended)
 
-![A screenshot of the Arc-Dark theme](http://i.imgur.com/qbfCnHo.png)
+![A screenshot of the Gotham-Dark theme](http://i.imgur.com/qbfCnHo.png)
 
 
 ### Requirements
@@ -77,9 +77,9 @@ If you want to install the latest version from git, clone the repository with
 Other options to pass to autogen.sh are
 
     --disable-transparency     disable transparency in the GTK3 theme
-    --disable-light            disable Arc Light support
-    --disable-darker           disable Arc Darker support
-    --disable-dark             disable Arc Dark support
+    --disable-light            disable Gotham Light support
+    --disable-darker           disable Gotham Darker support
+    --disable-dark             disable Gotham Dark support
     --disable-cinnamon         disable Cinnamon support
     --disable-gnome-shell      disable GNOME Shell support
     --disable-gtk2             disable GTK2 support
@@ -107,7 +107,7 @@ from the same directory as this README resides in, or
 ### Extras
 
 #### Chrome/Chromium theme (Gotham version in progress)
-To install the Chrome/Chromium theme go to the `extra/Chrome` folder and drag and drop the arc-theme.crx or arc-dark-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source "Chrome/arc-theme" folder.
+To install the Chrome/Chromium theme go to the `extra/Chrome` folder and drag and drop the gotham-theme.crx or gotham-dark-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source "Chrome/gotham-theme" folder.
 
 #### Plank theme (Gotham version in progress)
 To install the Plank theme, copy the `extra/Gotham-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
@@ -129,10 +129,10 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 If you find a bug, please report it at https://github.com/Galzzly/gotham-theme/issues
 
 ### License
-Arc is available under the terms the GPL-3.0. See `COPYING` for details.
+Gotham is available under the terms the GPL-3.0. See `COPYING` for details.
 
 ### Full Preview
-![A full screenshot of the Arc Gotham theme](http://i.imgur.com/bNaPB1b.png)
+![A full screenshot of the Gotham theme](http://i.imgur.com/bNaPB1b.png)
 <sub>Screenshot Details: Icons: [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) | Font: Fira Sans</sub>
 
 
