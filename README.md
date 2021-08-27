@@ -67,7 +67,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/Galzzlt/gotham-theme.git --depth 1 && cd gotham-theme
+    git clone https://github.com/Galzzly/gotham-theme.git --depth 1 && cd gotham-theme
 
 **2. Build and install the theme**
 
